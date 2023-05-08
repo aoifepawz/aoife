@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+  color:black;
+}
+.background{
+  background-color:black;
+}
+.header {
+  padding-top:5%;
+  float:right;
+  width:fit-content;
+  
+  }
+
+img{
+  padding-left: 50px;
+}
+
+
+h1{
+  padding-left: 50px;
+  padding-top:40px;
+}
+
+h2{
+  padding-left: 50px;
+}
+
+
+.nav-bar{
+  font-size:large;
+  font-weight:bolder;
+  color:rgb(212, 0, 255);
+  text-align:left;
+  padding-left: 60px;
+  padding-top: 80px;
+
+}
+.nav-bar2{
+  font-size:large;
+  font-weight:bolder;
+  color:aqua;
+  text-align:left;
+  padding-left: 60px;
+  padding-top: 0px;
+
+}
+
+.nav-bar3{
+  font-size:large;
+  font-weight:bolder;
+  color:aqua;
+  text-align:left;
+  padding-left: 60px;
+  padding-top: 0px;
+
+}
